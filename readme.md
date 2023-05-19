@@ -1,8 +1,15 @@
 # MERN GraphQL 
 
 Hi, this a example that has two folders 
-- client: Develop inr React 
+- client: Develop in React 
 - server: GraphQL
+
+## Stack MERN
+- Mongodb
+- Express
+- React
+- Nodejs
+
 
 ## Install server 
 ```
@@ -15,7 +22,7 @@ npm install
 ```
 
 ## Install client
-You need go to folter client and executed the next code
+You need go to folter ``/client`` and executed the next code
 ```
 npm install
 ```
@@ -26,4 +33,6 @@ npm install
 * GraphQL
 * Cors 
 * Mongoose
+* Express
+* Nodejs
 
